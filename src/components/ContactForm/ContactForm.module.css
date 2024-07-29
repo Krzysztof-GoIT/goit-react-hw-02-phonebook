@@ -1,0 +1,30 @@
+.form {
+  width: 500px;
+  background: #e4e4e4;
+  border-radius: 10px;
+  padding: 0px 15px 20px;
+}
+.formField {
+  border: none;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.formLabel {
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+.formButton {
+  width: 100px;
+  margin: 20px 0px 0px;
+}
+.formButton:hover {
+  width: 102px;
+}
+.contactFormInput {
+  font-size: 16px;
+}
+.contactFormInput:hover {
+  font-size: 16px;
+}

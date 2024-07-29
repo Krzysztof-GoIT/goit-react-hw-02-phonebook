@@ -1,0 +1,14 @@
+.contactListItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.deleteBtn {
+  cursor: pointer;
+  height: 23px;
+}
+.deleteBtn:hover {
+  color: #c91111;
+}
